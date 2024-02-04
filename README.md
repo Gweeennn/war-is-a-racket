@@ -1,0 +1,2 @@
+# USE THIS BRANCH FOR PLAYTESTING ONLY
+Playtesting is very helpful for allowing developers (i.e. the person writing this) to make sure that things are functioning correctly, while also letting players to see content early. Honestly, I would recommend it BUT given how unstable this is compared to the main branch, if stability is something you actually care about, then you shouldn't be playing on this branch.
