@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Branch**
+Was the bug found in the main branch or the development branch?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
